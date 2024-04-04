@@ -17,6 +17,8 @@ Test Execution:
  - The above can be resolvable but requires spending more time on cucumber runner file
  - Please execute using testng.xml file either in Intellij or in commandline
  - Steps to execute
+    - Go to github repository under this project
+    - pull the project to local machine  
     - open command line and go to project folder and run mvn test
     - OR open project in Intellij IDE and right click on testng.xml and run it
     - After execution got Reporting folder and latest html report can be seen
